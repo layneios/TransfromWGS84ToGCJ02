@@ -1,6 +1,5 @@
 //
 //  WGS84TOGCJ02.h
-//  EdaixiHousekeeper
 //
 //  Created by lengmolehongyan on 15/12/4.
 //  Copyright © 2015年 lengmolehongyan. All rights reserved.
